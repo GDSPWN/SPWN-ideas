@@ -3,6 +3,7 @@
 ## Starting
 
 - Hello World
+  - [zTags/printhelloworldinspwn](https://github.com/zTags/printhelloworldinspwn)
 - Simple Calculator
 
 ## Games
@@ -12,6 +13,7 @@
 - Chess
 - Connect Four
 - Cookie Clicker
+  - [AzzaCrypt/Basic-Geometry-Dash-Clicker](https://github.com/AzzaCrypt/Basic-Geometry-Dash-Clicker)
 - Flappy Bird
 - Ludo
 - Mancala
@@ -37,6 +39,7 @@
 - FPS-measurer
 - Lexer/parser
 - Quine
+  - [Deltara3/spwn-quines](https://github.com/Deltara3/spwn-quines)
 - Runtime Sorting Algorithm Visualizer
 
 ## Complex
