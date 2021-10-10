@@ -20,7 +20,7 @@
 - Minesweeper
 - Pacman
 - Rock-Paper-Scissors
-  - [Megarion/rps.spwn](https://gist.github.com/Megarion/956c7a563bdc312096f5c7b7f594be23)
+  - [Megarion/rps.spwn](https://github.com/Megarion/rps.spwn)
 - Simon Says
 - Sliding Puzzle
 - Slots / Casino
