@@ -15,6 +15,7 @@
 - Cookie Clicker
   - [AzzaCrypt/Basic-Geometry-Dash-Clicker](https://github.com/AzzaCrypt/Basic-Geometry-Dash-Clicker)
 - Flappy Bird
+  - [SpeckyYT/flpybrd](https://github.com/SpeckyYT/flpybrd)
 - Ludo
 - Mancala
 - Minesweeper
